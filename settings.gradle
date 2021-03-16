@@ -1,2 +1,5 @@
+include ':app-flight'
+include ':lib-http'
+include ':app-component'
 include ':app'
 rootProject.name = "My Application"
